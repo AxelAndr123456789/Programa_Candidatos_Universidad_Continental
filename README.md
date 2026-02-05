@@ -43,4 +43,3 @@
 - ✅ **Contacto y redes sociales**
 - ✅ **Estadísticas de votación**
 
-## 🏗️ Arquitectura del Proyecto
